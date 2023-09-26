@@ -1,0 +1,135 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+.login-container {
+  text-align: right;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+}
+
+p1 {
+  text-align: right;
+  font: normal normal normal 14px/18px Josefin Sans;
+  letter-spacing: 0px;
+  color: #d9185f;
+  opacity: 1;
+  top: 540px;
+  left: 300px;
+  width: 1030px;
+  height: 15px;
+}
+p {
+  text-align: center;
+  font: normal normal normal 14px/18px Josefin Sans;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  top: 540px;
+  left: 490px;
+  width: 1020px;
+  height: 15px;
+}
+button1 {
+  text-align: left;
+  font: normal normal 600 14px/18px Josefin Sans;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  background-color: #007bff;
+  top: 611px;
+  left: 490px;
+  width: 386px;
+  height: 46px;
+  white-space: 16px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+button2 {
+  text-align: left;
+  font: normal normal 600 14px/18px Josefin Sans;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  background-color: #007bff;
+  top: 673px;
+  left: 490px;
+  width: 386px;
+  height: 46px;
+  white-space: 16px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: left;
+  font: normal normal normal 29px/35px Josefin Sans;
+  letter-spacing: 0px;
+  color: #20b716;
+  opacity: 1;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.input-container {
+  margin-bottom: 20px;
+  margin-right: 100px;
+  text-align: left;
+  border: 5px solid;
+  margin: auto;
+  width: 35%;
+  padding: 10px;
+}
+.input-kontainer {
+  text-align: center;
+}
+label {
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+button {
+  background-color: #20b716;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 400px;
+  height: 46px;
+  text-align: center;
+  position: relative;
+  margin: 0 auto; /* This centers the button horizontally */
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+.background-image {
+  top: 0px;
+  left: 0px;
+  width: 1366px;
+  height: 263px;
+  background: transparent url("Rectangle 1.png") 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+}
